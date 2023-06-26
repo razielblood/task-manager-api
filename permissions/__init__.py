@@ -1,0 +1,1 @@
+from permissions.IsRolePermissions import IsManagerOrReadOnlyPermission
